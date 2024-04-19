@@ -2,6 +2,6 @@ package main;
 
 public class Main {
     public static void main(String[] args) {
-        System.out.println("One commit!");
+        System.out.println("One commit branch ONE!");
     }
 }
